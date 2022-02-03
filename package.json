@@ -1,0 +1,41 @@
+{
+  "name": "simpleshop",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@mui/icons-material": "^5.3.1",
+    "@mui/material": "^5.3.1",
+    "@zeit/next-sass": "^1.0.1",
+    "axios": "^0.25.0",
+    "bootstrap": "^5.1.3",
+    "firebase": "^9.6.5",
+    "material-ui": "^1.0.0-beta.47",
+    "next": "12.0.9",
+    "node-sass": "^7.0.1",
+    "react": "17.0.2",
+    "react-bootstrap": "^2.1.2",
+    "react-dom": "17.0.2",
+    "react-paginate": "^8.1.0",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "redux-persist": "^6.0.0",
+    "redux-promise-middleware": "^6.1.2",
+    "redux-thunk": "^2.4.1",
+    "sass": "^1.49.7",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.4",
+    "redux-logger": "^3.0.6"
+  }
+}
